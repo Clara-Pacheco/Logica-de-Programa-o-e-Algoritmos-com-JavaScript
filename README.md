@@ -4,8 +4,8 @@
 
 ## Desafios do capítulo 2
 
-![]()
+![preview-cinemaJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/cinemaJS.png)
 <br>
-![]()
+![preview-revendedoraJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/revendaVeiculosJS.png)
 <br>
-![]()
+![preview-restauranteJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/restauranteJS.png)
