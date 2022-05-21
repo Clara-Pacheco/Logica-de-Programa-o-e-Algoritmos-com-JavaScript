@@ -26,5 +26,7 @@ function exibir() {
   resp.appendChild(imagem)
   resp.innerHTML += 'Bom filme!'
 
+  exibir.preventDefault()
+
 
 }
