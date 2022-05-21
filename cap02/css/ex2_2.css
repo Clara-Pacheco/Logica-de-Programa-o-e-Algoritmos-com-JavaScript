@@ -1,0 +1,45 @@
+body {
+  font-size: 20pt;
+  color: white;
+  margin-top: 50px;
+  
+}
+
+.container {
+  width: 800px;
+  height: 500px;
+  background-color: black;
+  border-radius: 10px;
+  margin: auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.titulo {
+  
+  margin-bottom: 20px;
+}
+
+.titulo #txtNomeFilme {
+  width: 300px;
+  height: 30px;
+}
+
+.duracao {
+
+  margin-bottom: 30px;
+}
+
+.duracao #txtDuracaoFilme {
+  width: 100px;
+  height: 30px;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+}
