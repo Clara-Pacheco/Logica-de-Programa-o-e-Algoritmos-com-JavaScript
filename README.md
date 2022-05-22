@@ -44,7 +44,7 @@ Os capítulos cobrem os temas abordados na disciplina de Algoritmos:
 
 <br>  
 
-3. Elaborar um programa para um restaurane que leia o preço por kg e o consumo (em gramas) de um cliente.Exiba o valor a ser pago.  
+3. Elaborar um programa para um restaurante que leia o preço por kg e o consumo (em gramas) de um cliente.Exiba o valor a ser pago.  
 
 ![preview-restauranteJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/restauranteJS.png)
 
