@@ -58,7 +58,7 @@ A)Uma farmácia está com uma promoção- Na compra de duas unidades de um mesmo
 
 B)Elaborar um programa para uma lan house de um aeroporto- O programa deve ler o valor de cada 15 minutos de uso de um computador e o tempo de uso por um cliente em minutos. Informe o valor a ser pago pelo cliente, sabendo que as frações extras de 15 minutos devem ser cobradas de forma integral.
 
-![preview lan-house]()
+![preview lan-house](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/lan-house.png)
 ##  📕 Sobre  
 
 <p>Este é um projeto desenvolvido com o objetivo de ajudar, através da prática, aqueles que querem melhorar a lógica de programação. Os exercícios e exemplos desse livro são resolvidos utilizando a linguagem Javascript.
