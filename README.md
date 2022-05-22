@@ -71,7 +71,7 @@ B)Elaborar um programa para uma lan house de um aeroporto- O programa deve ler o
 
 🌎 **Result Preview: []()**
  
-☑️ **Task**: Resolver todos os exemplos e exercícios propostos no livro <a href="https://www.novatec.com.br/livros/logica-programacao-algoritmos-com-javascript-2ed/">***Lógica de Programação e Algoritmos com JavaScript***</a> de **Edécio Fernando lepsen, da editora novatec .
+☑️ **Task**: Resolver todos os exemplos e exercícios propostos no livro <a href="https://www.novatec.com.br/livros/logica-programacao-algoritmos-com-javascript-2ed/">***Lógica de Programação e Algoritmos com JavaScript***</a> de **Edécio Fernando lepsen**, da editora novatec .
 
 Feito com 💜 por Clara 🚀
 </p>
