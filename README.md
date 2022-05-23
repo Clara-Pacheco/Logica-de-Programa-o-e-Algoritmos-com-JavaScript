@@ -63,6 +63,8 @@ B) Elaborar um programa para uma lan house de um aeroporto- O programa deve ler 
 <br>
 
 C)  Um supermercado está com uma promoção- Para aumentar sjuas vendas no setolr de higiene, cada etiqueta de produto deve exibir uma mensagem anunciando 50% de desconto (para um item) na compra de três unidades do produto. Elaborar um programa que leia descrição e preço de um produto. Após, apresente as mensagens indicando a promoção, conforme o exemplo:  
+
+![preview supermarket](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/supermercado.png)
 ##  📕 Sobre  
 
 <p>Este é um projeto desenvolvido com o objetivo de ajudar, através da prática, aqueles que querem melhorar a lógica de programação. Os exercícios e exemplos desse livro são resolvidos utilizando a linguagem Javascript.
