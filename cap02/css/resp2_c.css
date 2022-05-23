@@ -1,0 +1,43 @@
+body {
+  font-size: 20px;
+  display: flex;
+  
+}
+
+#container {
+  width: 100%;
+  height:830px;
+  background-color: #B8E986;
+  color: #CE0037;
+  font-size: 30px;
+
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  gap: 25px;
+}
+
+h1{
+  color: #CE0037;
+  padding: 10px;
+  box-shadow: 1px 1px 10px rgb(75, 27, 27)
+}
+
+input {
+  width: 350px;
+  height: 60px;
+  border-radius: 8px;
+  border: 0.5px solid black;
+  background-color:rgb(246, 241, 241);
+}
+#botao {
+  width: 200px;
+  height: 60px;
+  background-color: #CE0037;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  box-shadow: 1px 1px 8px #9c022b;
+}
