@@ -1,7 +1,7 @@
 # 💻 Sobre o projeto
 ### Resolução dos exemplos e solução dos exercícios do livro:
 
-!['Book cover'](https://github.com/Clara-Pacheco/Logica-de-Programa-o-e-Algoritmos-com-JavaScript/blob/main/book-cover.jpg)
+!['Book cover'](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/book-cover.jpg)
 
 ## 📋 Principais pontos abordados nesse projeto:
 
@@ -34,19 +34,19 @@ Os capítulos cobrem os temas abordados na disciplina de Algoritmos:
 
 1. Elaborar um program para um cinema, que leia o título e a duração de um filme em minutos. Exiba o título do filme e converta a duração para horas e minutos.  
 
-![preview-cinemaJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/cinemaJS.png)
+![preview-cinemaJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/cinemaJS.png)
 
 <br>
 
 2. Elaborar um programa para uma revenda de veículos. O programa deve ler modelo e preço do veículo. Apresentar como resposta o valor de entrada(50%) e o salário em 12X.  
 
-![preview-revendedoraJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/revendaVeiculosJS.png)
+![preview-revendedoraJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/revendaVeiculosJS.png)
 
 <br>  
 
 3. Elaborar um programa para um restaurante que leia o preço por kg e o consumo (em gramas) de um cliente.Exiba o valor a ser pago.  
 
-![preview-restauranteJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/restauranteJS.png)
+![preview-restauranteJS](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/restauranteJS.png)
 
 <br>
 
