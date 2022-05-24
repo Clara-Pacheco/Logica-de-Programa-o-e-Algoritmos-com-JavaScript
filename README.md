@@ -64,7 +64,17 @@ B) Elaborar um programa para uma lan house de um aeroporto- O programa deve ler 
 
 C)  Um supermercado está com uma promoção- Para aumentar sjuas vendas no setolr de higiene, cada etiqueta de produto deve exibir uma mensagem anunciando 50% de desconto (para um item) na compra de três unidades do produto. Elaborar um programa que leia descrição e preço de um produto. Após, apresente as mensagens indicando a promoção, conforme o exemplo:  
 
-![preview supermarket](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/supermercado.png)
+![preview supermarket](https://github.com/Clara-Pacheco/Logica-de-Programacao-e-Algoritmos-com-JavaScript/blob/main/assets/supermercado.png)  
+
+<br>
+
+### 📕 Capítulo 03:  
+
+1) <p>Elaborar um programa para uma empresa que leia o salário e o tempo que um funcionário trabalha em uma empresa. Sabendo que a cada 4 anos(quadriênio) o funcionário recebe um acréscimo de 1% no salário, calcule e informe o número de quadriênios a que o funcionário tem direito e o salário final. </p>
+
+<br>
+
+2) <p>Elaborar um programa para uma veterinária, que leia o peso de uma ração em kg e o quanto um gato consome por dia da ração, em gramas. Informe quantos dias irá durar a ração e o quanto sobra da ração(em gramas)</p>
 ##  📕 Sobre  
 
 <p>Este é um projeto desenvolvido com o objetivo de ajudar, através da prática, aqueles que querem melhorar a lógica de programação. Os exercícios e exemplos desse livro são resolvidos utilizando a linguagem Javascript.
